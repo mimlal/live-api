@@ -1,0 +1,24 @@
+[
+    {
+        "name":"iphone",
+        "price":154,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphone10",
+        "price":154,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"watch",
+        "price":154,
+        "company":"apple"
+    },
+    {
+        "name":"coolpad",
+        "price":154,
+        "company":"coolpad"
+    }
+]
